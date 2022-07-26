@@ -1,0 +1,7 @@
+[
+{"food": "Pizza","price": "50000", "note":"rat ngon","image": "Resources/pizza.png"  },
+{"food": "Chicken","price": "35000","note":"hoi ngon","image":"Resources/chicken.png"},
+{"food": "Fish", "price": "35000", "note":"kha ngon", "image":"Resources/fish.png"} , 
+{"food": "Hotpot","price": "35000","note":"hoi ngon","image":"Resources/hotpot.png"},
+{"food": "Takoyaki", "price": "35000", "note":"kha ngon", "image":"Resources/takoyaki.png"} 
+]
